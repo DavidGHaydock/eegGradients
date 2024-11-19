@@ -13,9 +13,3 @@ If you know what those things are and know how to apply those steps in the conte
 If you don't know what these things are, don't worry, we're going to go into it.
 
 EEG gradients translate these simple approaches used in fMRI, to EEG analysis. There are some differences between EEG and fMRI application, which we will get into.
-
-## Repository Structure
-
-Each step in the process is indicated by an individual folder, which are numbered by their order. Go into each folder and the README.md file will show you how to carry out that step.
-
-Each step has the mathematical run-down of how to carry it out. It also provides simple examples of code in multiple languages that you can follow along with, if you are using those code libraries. If you have a specific language that you would like to use that isn't included in examples, let me know and I can add it for you! 
